@@ -1,0 +1,23 @@
+h2{
+    color:cadetblue;
+    font-size: 40px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h3{
+    color: cadetblue;
+    font-family: sans-serif;
+    text-align: center;
+    
+}
+
+td{
+    color: azure;
+}
+
+
+body{  
+    background-image:url('imgs/bck.jpg')  
+}
+
